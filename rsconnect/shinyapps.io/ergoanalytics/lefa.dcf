@@ -1,0 +1,13 @@
+name: lefa
+title:
+username:
+account: ergoanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1536836
+bundleId: 3218426
+url: https://ergoanalytics.shinyapps.io/lefa/
+when: 1591104409.39886
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: english-ewt-ud-2.4-190531.udpipe|O18.rds
